@@ -1,0 +1,15 @@
+<templateSet group="Test">
+  <template name="mytodo" value="//todo $USER$ $DATE$ $DESC$:$END$" description="自定义todo" toReformat="false" toShortenFQNames="true">
+    <variable name="USER" expression="&quot;niexianglin&quot;" defaultValue="" alwaysStopAt="false" />
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="DESC" expression="USER" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="select" value="sadadsdd $SELECTION$ sdsdsds" description="环绕模板" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

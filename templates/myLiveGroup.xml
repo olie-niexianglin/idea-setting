@@ -1,0 +1,78 @@
+<templateSet group="myLiveGroup">
+  <template name="/**" value="/**&#10; * $desc$&#10; *&#10; $param$&#10; $return$&#10; * @author niexianglin mail:niexianglin@imdada.cn&#10; * @date $date$ $time$&#10; */" description="方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {def sapce = ''; if(i!=0){space=' '}; result+= sapce + '* @param ' + params[i] + ((i &lt; params.size() - 1) ? '\\n' : '')}; return result&quot;, methodParameters()) " defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="groovyScript(&quot;def returnType = \&quot;${_1}\&quot;; def result = '* @return : ' + returnType; return result;&quot;, methodReturnType());" defaultValue="返回值" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="log" value="private static final Logger logger = LoggerFactory.getLogger($NAME$.class);" description="定义 log" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logib" value="logger.info(&quot;$NAME$.$METHOD$ param is：{}&quot; , JsonUtils.toJson(new Object[]{$param$}));&#10;" description="方法前日志" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=params[i] + ((i &lt; params.size() - 1) ? ',' : '')}; return result&quot;,methodParameters()) " defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logia" value="logger.info(&quot;$NAME$.$METHOD$ result is：{}&quot; , JsonUtils.toJson(new Object[]{$param$}));" description="方法后日志" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=params[i] + ((i &lt; params.size() - 1) ? ',' : '')}; return result&quot;,methodParameters()) " defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="!!" value="------ important log ------ " description="重要日志前缀" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="//todo-olie $DATE$ $TIME$ DESC:$END$" description="备忘录" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="TIME" expression="time()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="red" value="([red]##)" description="ascii 红色字体" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="logie" value="logger.error(&quot;$NAME$.$METHOD$ exception,param is：{}&quot; , JsonUtils.toJson(new Object[]{$param$}),e);" description="方法异常日志" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=params[i] + ((i &lt; params.size() - 1) ? ',' : '')}; return result&quot;,methodParameters()) " defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fn" value="public static final " description="常量定义" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ww" value="$ss$" description="ww" toReformat="false" toShortenFQNames="true">
+    <variable name="ss" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logien" value="logger.error(&quot;$NAME$.$METHOD$ exception,param is：{}&quot; , JsonUtils.toJson(new Object[]{$param$}));" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="METHOD" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="groovyScript(&quot;def result=''; def params=\&quot;${_1}\&quot;.replaceAll('[\\\\[|\\\\]|\\\\s]', '').split(',').toList(); for(i = 0; i &lt; params.size(); i++) {result+=params[i] + ((i &lt; params.size() - 1) ? ',' : '')}; return result&quot;,methodParameters()) " defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

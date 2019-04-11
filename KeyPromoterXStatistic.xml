@@ -1,0 +1,3184 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add</Description>
+          <Count>21</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add New Column">
+        <Item>
+          <IdeaActionID>Console.TableResult.AddColumn</IdeaActionID>
+          <ShortCut>'Alt+Shift+Insert'</ShortCut>
+          <Description>Add New Column</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add New Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Add New Row</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Add to VCS">
+        <Item>
+          <IdeaActionID>ChangesView.AddUnversioned</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+A'</ShortCut>
+          <Description>Add to VCS</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze All Modified Files">
+        <Item>
+          <IdeaActionID>FindBugs.DefaultChangeListAction</IdeaActionID>
+          <ShortCut>'Alt+Shift+C'</ShortCut>
+          <Description>Analyze All Modified Files</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze Class (non-anonymous) under Cursor">
+        <Item>
+          <IdeaActionID>FindBugs.ClassUnderCursorAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Analyze Class (non-anonymous) under Cursor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Analyze Current File">
+        <Item>
+          <IdeaActionID>FindBugs.CurrentFileAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
+          <Description>Analyze Current File</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Attach to Process...">
+        <Item>
+          <IdeaActionID>XDebugger.AttachToProcess</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F5'</ShortCut>
+          <Description>Attach to Process...</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Alt+向左箭头' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>69</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Basic">
+        <Item>
+          <IdeaActionID>CodeCompletion</IdeaActionID>
+          <ShortCut>'Ctrl+空格'</ShortCut>
+          <Description>Basic</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Branches...">
+        <Item>
+          <IdeaActionID>Git.Branches</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+`'</ShortCut>
+          <Description>Branches...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Build Project">
+        <Item>
+          <IdeaActionID>CompileDirty</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Project</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Clear Context">
+        <Item>
+          <IdeaActionID>context.clear</IdeaActionID>
+          <ShortCut>'Alt+Shift+X'</ShortCut>
+          <Description>Clear Context</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'Ctrl+F4'</ShortCut>
+          <Description>Close</Description>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close Active Task...">
+        <Item>
+          <IdeaActionID>tasks.close</IdeaActionID>
+          <ShortCut>'Alt+Shift+W'</ShortCut>
+          <Description>Close Active Task...</Description>
+          <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>Maven.CollapseAll</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+减号'</ShortCut>
+          <Description>Collapse All</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit...">
+        <Item>
+          <IdeaActionID>CheckinProject</IdeaActionID>
+          <ShortCut>'Ctrl+K'</ShortCut>
+          <Description>Commit...</Description>
+          <Count>822</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Constant...">
+        <Item>
+          <IdeaActionID>IntroduceConstant</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+C'</ShortCut>
+          <Description>Constant...</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
+          <Count>356</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Path">
+        <Item>
+          <IdeaActionID>RemoteHostView.CopyPaths</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+C'</ShortCut>
+          <Description>Copy Path</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Reference">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Reference</Description>
+          <Count>183</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Relative Path">
+        <Item>
+          <IdeaActionID>CopyReference</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
+          <Description>Copy Relative Path</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy Value">
+        <Item>
+          <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy Value</Description>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
+          <Description>Cut</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cyclic Expand Word">
+        <Item>
+          <IdeaActionID>HippieCompletion</IdeaActionID>
+          <ShortCut>'Alt+/'</ShortCut>
+          <Description>Cyclic Expand Word</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Data Source Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Data Source Properties</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Demo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Demo'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'H'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'H'</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'IteratorTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'IteratorTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'JDDJPushOrderOperateServicesImpl'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'JDDJPushOrderOperateServicesImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'LineBreakPoint'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'LineBreakPoint'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MainApplication'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'MainApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'MethodBreakpoint'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'MethodBreakpoint'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'O2OWmsServiceLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'O2OWmsServiceLauncher'</Description>
+          <Count>31</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'O2OWmsWorkerLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'O2OWmsWorkerLauncher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OrderProductServiceTest.adjustOrderTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'OrderProductServiceTest.adjustOrderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'OrderProductServiceTest.validate'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'OrderProductServiceTest.validate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ResponsebilityChainTest'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ResponsebilityChainTest'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Scratch'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Scratch'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ServiceLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ServiceLauncher'</Description>
+          <Count>148</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'ServiceTest.testScheduleTaskInnerService'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ServiceTest.testScheduleTaskInnerService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SpringCache'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'SpringCache'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'SystemServiceImpl'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'SystemServiceImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Test'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Tomcat 7.0.90'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Tomcat 7.0.90'</Description>
+          <Count>95</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unnamed'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unnamed'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Web'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Web'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'WorkerLauncher'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'WorkerLauncher'</Description>
+          <Count>65</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'inout'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'inout'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'monitor'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'monitor'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'newton-base'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'newton-base'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'product'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'product'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'wms'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'wms'</Description>
+          <Count>78</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '仓鼠'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '仓鼠'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>12692</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Default task">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'Alt+Shift+T'</ShortCut>
+          <Description>Default task</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>83</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate">
+        <Item>
+          <IdeaActionID>DatabaseView.CopyAction</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Duplicate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Duplicate Watch">
+        <Item>
+          <IdeaActionID>XDebugger.CopyWatch</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Duplicate Watch</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <IdeaActionID>Vcs.EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Source</Description>
+          <Count>115</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit...">
+        <Item>
+          <IdeaActionID>XDebugger.EditWatch</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Edit...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Embedded Web Browser">
+        <Item>
+          <IdeaActionID>ActivateEmbeddedWebBrowserToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+逗号'</ShortCut>
+          <Description>Embedded Web Browser</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>203</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Exclude">
+        <Item>
+          <IdeaActionID>Maven.Uml.Exclude</IdeaActionID>
+          <ShortCut>'Shift+Delete'</ShortCut>
+          <Description>Exclude</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Execute</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand Recursively">
+        <Item>
+          <IdeaActionID>ExpandRegionRecursively</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+NumPad +' or 'Ctrl+Alt+='</ShortCut>
+          <Description>Expand Recursively</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Favorites">
+        <Item>
+          <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2'</ShortCut>
+          <Description>Favorites</Description>
+          <Count>37</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Field...">
+        <Item>
+          <IdeaActionID>IntroduceField</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F'</ShortCut>
+          <Description>Field...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Action...">
+        <Item>
+          <IdeaActionID>GotoAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+A'</ShortCut>
+          <Description>Find Action...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Alt+F7'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>60</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F' or 'Ctrl+Alt+/'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find...">
+        <Item>
+          <IdeaActionID>Find</IdeaActionID>
+          <ShortCut>'Ctrl+F' or 'Alt+F3'</ShortCut>
+          <Description>Find...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="FindBugs - Analyze changelist files">
+        <Item>
+          <IdeaActionID>FindBugs.ChangesViewToolbar.ActiveChangeListAction</IdeaActionID>
+          <ShortCut>'Alt+Shift+C'</ShortCut>
+          <Description>FindBugs - Analyze changelist files</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Force Step Into">
+        <Item>
+          <IdeaActionID>ForceStepInto</IdeaActionID>
+          <ShortCut>'Alt+Shift+F7'</ShortCut>
+          <Description>Force Step Into</Description>
+          <Count>45</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+向右箭头' or 'Button5 Click'</ShortCut>
+          <Description>Forward</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'Alt+Insert'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Help">
+        <Item>
+          <IdeaActionID>ContextHelp</IdeaActionID>
+          <ShortCut>'F1'</ShortCut>
+          <Description>Help</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hide All Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Hide All Windows</Description>
+          <Count>244</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Hierarchy">
+        <Item>
+          <IdeaActionID>ActivateHierarchyToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="JDDJ-9190: 分给聂祥林的bug">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'Alt+Shift+T'</ShortCut>
+          <Description>JDDJ-9190: 分给聂祥林的bug</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Join Lines">
+        <Item>
+          <IdeaActionID>EditorJoinLines</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+J'</ShortCut>
+          <Description>Join Lines</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump To Source">
+        <Item>
+          <IdeaActionID>XDebugger.JumpToSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump To Source</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump To Type Source">
+        <Item>
+          <IdeaActionID>XDebugger.JumpToTypeSource</IdeaActionID>
+          <ShortCut>'Shift+F4'</ShortCut>
+          <Description>Jump To Type Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'Alt+Home'</ShortCut>
+          <Description>Jump to Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Source">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Source</Description>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Load Context...">
+        <Item>
+          <IdeaActionID>context.load</IdeaActionID>
+          <ShortCut>'Alt+Shift+L'</ShortCut>
+          <Description>Load Context...</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Mark Object...">
+        <Item>
+          <IdeaActionID>Debugger.MarkObject</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Mark Object...</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Maven">
+        <Item>
+          <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F11'</ShortCut>
+          <Description>Maven</Description>
+          <Count>611</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Maximize Tool Window">
+        <Item>
+          <IdeaActionID>MaximizeToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+引号'</ShortCut>
+          <Description>Maximize Tool Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Messages">
+        <Item>
+          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
+          <ShortCut>'Alt+0'</ShortCut>
+          <Description>Messages</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Table...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Modify Table...</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move Watch Up">
+        <Item>
+          <IdeaActionID>XDebugger.MoveWatchUp</IdeaActionID>
+          <ShortCut>'Alt+向上箭头'</ShortCut>
+          <Description>Move Watch Up</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'Alt+Shift+M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>177</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Watch...">
+        <Item>
+          <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
+          <ShortCut>'Insert'</ShortCut>
+          <Description>New Watch...</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Next Highlighted Error">
+        <Item>
+          <IdeaActionID>GotoNextError</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Next Highlighted Error</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open 'JDDJ-9190: 分给聂祥林的bug' In Browser">
+        <Item>
+          <IdeaActionID>tasks.open.in.browser</IdeaActionID>
+          <ShortCut>'Alt+Shift+B'</ShortCut>
+          <Description>Open 'JDDJ-9190: 分给聂祥林的bug' In Browser</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Console</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Library Settings">
+        <Item>
+          <IdeaActionID>EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Library Settings</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Task...">
+        <Item>
+          <IdeaActionID>tasks.goto</IdeaActionID>
+          <ShortCut>'Alt+Shift+N'</ShortCut>
+          <Description>Open Task...</Description>
+          <Count>96</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Parameter...">
+        <Item>
+          <IdeaActionID>IntroduceParameter</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+P'</ShortCut>
+          <Description>Parameter...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>288</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Preview the current selected bug.">
+        <Item>
+          <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
+          <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
+          <Description>Preview the current selected bug.</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project">
+        <Item>
+          <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Project</Description>
+          <Count>317</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
+          <Description>Project Structure...</Description>
+          <Count>71</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Push...">
+        <Item>
+          <IdeaActionID>Vcs.Push</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+K'</ShortCut>
+          <Description>Push...</Description>
+          <Count>479</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Definition">
+        <Item>
+          <IdeaActionID>QuickImplementations</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+I'</ShortCut>
+          <Description>Quick Definition</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Documentation">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
+          <Description>Quick Documentation</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Switch Scheme...">
+        <Item>
+          <IdeaActionID>QuickChangeScheme</IdeaActionID>
+          <ShortCut>'Ctrl+`'</ShortCut>
+          <Description>Quick Switch Scheme...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Changes">
+        <Item>
+          <IdeaActionID>RecentChanges</IdeaActionID>
+          <ShortCut>'Alt+Shift+C'</ShortCut>
+          <Description>Recent Changes</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'Ctrl+E'</ShortCut>
+          <Description>Recent Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ApiServiceWrap.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ApiServiceWrap.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...InfoController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...InfoController.java'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...MessageDaoImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...MessageDaoImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...OutServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...OutServiceImpl.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ProductRequest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ProductRequest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...PutServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...PutServiceImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ServiceApiImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ServiceApiImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ageServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ageServiceImpl.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...derServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...derServiceImpl.java'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...derServiceWrap.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...derServiceWrap.java'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...eInServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...eInServiceImpl.java'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...eServiceFacade.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...eServiceFacade.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...eUniqueHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...eUniqueHandler.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ellServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ellServiceImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...erInvoiceMapper.xml'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...erInvoiceMapper.xml'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...gePageResponse.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...gePageResponse.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...hMessageEntity.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...hMessageEntity.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...houseInRpcImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...houseInRpcImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ionServiceWrap.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ionServiceWrap.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ishmentRequest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ishmentRequest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...kServiceFacade.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...kServiceFacade.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...leTaskTypeEnum.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...leTaskTypeEnum.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...mmonController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...mmonController.java'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...nerServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...nerServiceImpl.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...nishmentEntity.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...nishmentEntity.java'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...perateServices.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...perateServices.java'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...rOperateWorker.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...rOperateWorker.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...sageController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...sageController.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...skServicesImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...skServicesImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...teOrderRequest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...teOrderRequest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...temServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...temServiceImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...uctServiceWrap.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...uctServiceWrap.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...ueryController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...ueryController.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...usChangeAspect.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...usChangeAspect.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...useServiceImpl.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...useServiceImpl.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...utCancelWorker.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...utCancelWorker.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile '...yUniqueHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile '...yUniqueHandler.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'BaseRequest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'BaseRequest.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'BasicDataHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'BasicDataHandler.java'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'BuildDataHandler.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'BuildDataHandler.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'Content.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'Content.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'DebuggingContent.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'DebuggingContent.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'DjClientUtils.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'DjClientUtils.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'EleOrderInfoDTO.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'EleOrderInfoDTO.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'EleUserDTO.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'EleUserDTO.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'ExampleWorker.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ExampleWorker.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'FeatureFlagUtils.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'FeatureFlagUtils.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'HandlerChain.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'HandlerChain.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'IteratorTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'IteratorTest.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'JPushUtil.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'JPushUtil.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'LocalHistory.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'LocalHistory.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'MD5Utils.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'MD5Utils.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'MTClinetUtils.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'MTClinetUtils.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'MTOrderInfoDTO.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'MTOrderInfoDTO.java'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'MappingUtils.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'MappingUtils.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'OrderController.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'OrderController.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'OrderMainMapper.xml'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'OrderMainMapper.xml'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'RedisTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'RedisTest.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'ReplenishmentDTO.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ReplenishmentDTO.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'ServiceTest.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ServiceTest.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'Test.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'Test.java'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'ValidateUtils.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'ValidateUtils.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'WorkerLauncher.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'WorkerLauncher.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recompile 'jstack.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'jstack.java'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refresh">
+        <Item>
+          <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Refresh</Description>
+          <Count>95</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reload PlantUml Diagrams">
+        <Item>
+          <IdeaActionID>PlantUML.Reload</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+G'</ShortCut>
+          <Description>Reload PlantUml Diagrams</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Module">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Module</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>97</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Chapter01'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Chapter01'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Chapter02'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Chapter02'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DateUtil'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'DateUtil'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'DebuggingContent'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'DebuggingContent'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'H'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'H'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'JPushUtil'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'JPushUtil'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'LongRunningScenarios'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'LongRunningScenarios'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'MD5Utils'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'MD5Utils'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrderOpenServiceFacadeTest.cancelOrderDelivery'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'OrderOpenServiceFacadeTest.cancelOrderDelivery'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrderProductServiceTest.updateTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'OrderProductServiceTest.updateTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'OrderProductServiceTest.validate'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'OrderProductServiceTest.validate'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'RedisKeyGenerator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'RedisKeyGenerator'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ResponsebilityChainTest'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ResponsebilityChainTest'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Scratch'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Scratch'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ServiceLauncher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ServiceLauncher'</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ServiceTest.testGetWarehouseInByPage'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ServiceTest.testGetWarehouseInByPage'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'ServiceTest.testScheduleTaskInnerService'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'ServiceTest.testScheduleTaskInnerService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'SystemServiceImpl'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'SystemServiceImpl'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Test'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Tomcat 7.0.90'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Tomcat 7.0.90'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'WorkerLauncher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'WorkerLauncher'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'http://localhost:8080/pushMessage/detail'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'http://localhost:8080/pushMessage/detail'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'http://localhost:8080/warehouse/getReplenishmentDetails'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'http://localhost:8080/warehouse/getReplenishmentDetails'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'o2o-newton-inout [package]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'o2o-newton-inout [package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'post#14'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'post#14'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'post#17'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'post#17'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'post#18'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'post#18'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'post#7'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'post#7'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'post#8'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'post#8'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'post#9'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'post#9'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'product'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'product'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'wms'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'wms'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'yzt-order [test]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'yzt-order [test]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'yzt-order-inner-api [deploy]'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'yzt-order-inner-api [deploy]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Default Layout">
+        <Item>
+          <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
+          <ShortCut>'Shift+F12'</ShortCut>
+          <Description>Restore Default Layout</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>3569</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>211</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>589</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Constant.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Constant.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DateFormatUtils.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DateFormatUtils.main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'DateUtil.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'DateUtil.main()'</Description>
+          <Count>35</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Demo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Demo'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FeatureFlagUtils.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'FeatureFlagUtils.main()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'GC1.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'GC1.main()'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'H'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'H'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IteratorTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'IteratorTest'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'IteratorTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'IteratorTest.main()'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'LongRunningSce....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'LongRunningSce....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MD5Utils.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'MD5Utils.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Main.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Main.main()'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MainApplication'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'MainApplication'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MainTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'MainTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'MainTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'MainTest.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'O2OWmsServiceL....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'O2OWmsServiceL....main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'O2OWmsServiceLauncher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'O2OWmsServiceLauncher'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'O2OWmsWorkerLa....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'O2OWmsWorkerLa....main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'O2OWmsWorkerLauncher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'O2OWmsWorkerLauncher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Question.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Question.main()'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RankTopCache.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'RankTopCache.main()'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'RedisKeyGenera....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'RedisKeyGenera....main()'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Responsebility....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Responsebility....main()'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ResponsebilityChainTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ResponsebilityChainTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SDKTests.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'SDKTests.main()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Scratch'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Scratch'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Scratch.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Scratch.main()'</Description>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceLauncher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ServiceLauncher'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceLauncher.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ServiceLauncher.main()'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ServiceTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'ServiceTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'SpringCache'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'SpringCache'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Test.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Test.main()'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Tomcat 7.0.90'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Tomcat 7.0.90'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Web'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Web'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WorkerLauncher'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'WorkerLauncher'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'WorkerLauncher.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'WorkerLauncher.main()'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'com.olie.demo [packa...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'com.olie.demo [packa...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'gecco [surefire:help]'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'gecco [surefire:help]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'insertNewPushMessage()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'insertNewPushMessage()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'looger'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'looger'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'monitor'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'monitor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'newton-base'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'newton-base'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'product'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'product'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'service'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'service'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testGetWarehouseIn...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testGetWarehouseIn...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'testReportService()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'testReportService()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'wms'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'wms'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Inspection by Name...">
+        <Item>
+          <IdeaActionID>RunInspection</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+I'</ShortCut>
+          <Description>Run Inspection by Name...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'Alt+F9'</ShortCut>
+          <Description>Run to Cursor</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save Context...">
+        <Item>
+          <IdeaActionID>context.save</IdeaActionID>
+          <ShortCut>'Alt+Shift+S'</ShortCut>
+          <Description>Save Context...</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>Scratch File</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+0'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>364</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'Alt+Shift+A'</ShortCut>
+          <Description>Show All Affected Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Bookmarks">
+        <Item>
+          <IdeaActionID>ShowBookmarks</IdeaActionID>
+          <ShortCut>'Shift+F11'</ShortCut>
+          <Description>Show Bookmarks</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies Popup...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+U'</ShortCut>
+          <Description>Show Dependencies Popup...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Dependencies...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Dependencies...</Description>
+          <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diagram...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagram</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
+          <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff">
+        <Item>
+          <IdeaActionID>Diff.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Show Diff</Description>
+          <Count>1032</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Diff as UML">
+        <Item>
+          <IdeaActionID>Uml.ShowDiff</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+D'</ShortCut>
+          <Description>Show Diff as UML</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Execution Point">
+        <Item>
+          <IdeaActionID>ShowExecutionPoint</IdeaActionID>
+          <ShortCut>'Alt+F10'</ShortCut>
+          <Description>Show Execution Point</Description>
+          <Count>149</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Local Changes as UML">
+        <Item>
+          <IdeaActionID>UML.ShowChanges</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+D'</ShortCut>
+          <Description>Show Local Changes as UML</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>286</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>3426</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Chapter02'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Chapter02'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DebuggingContent'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DebuggingContent'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DjOrderInfoServie.getInviterActivityInfo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'DjOrderInfoServie.getInviterActivityInfo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'H'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'H'</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IndexStatisticsServiceTest.getRealTimeDataOverviewOrderListTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'IndexStatisticsServiceTest.getRealTimeDataOverviewOrderListTest'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'IteratorTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'IteratorTest'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'JDDJPushOrderOperateServicesImpl'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'JDDJPushOrderOperateServicesImpl'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'JPushUtil'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'JPushUtil'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LocalHistory'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'LocalHistory'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'LongRunningScenarios'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'LongRunningScenarios'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MD5Utils'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MD5Utils'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MainApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MainApplication'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MainTest.testReportService'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MainTest.testReportService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MqServiceTest.TestSendConfirmMq'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MqServiceTest.TestSendConfirmMq'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MqServiceTest.rbackMq'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MqServiceTest.rbackMq'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'MyGithub'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'MyGithub'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'O2OWmsServiceLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'O2OWmsServiceLauncher'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderOpenServiceFacadeTest.cancelOrderDelivery'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderOpenServiceFacadeTest.cancelOrderDelivery'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderProductServiceTest.Md5'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderProductServiceTest.Md5'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderProductServiceTest.TestCache'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderProductServiceTest.TestCache'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderProductServiceTest.TestCacheGet'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderProductServiceTest.TestCacheGet'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderProductServiceTest.adjustOrderTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderProductServiceTest.adjustOrderTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderProductServiceTest.updateTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderProductServiceTest.updateTest'</Description>
+          <Count>41</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'OrderProductServiceTest.validate'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'OrderProductServiceTest.validate'</Description>
+          <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Question'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Question'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ResponsebilityChainTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ResponsebilityChainTest'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Scratch (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Scratch (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Scratch'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Scratch'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceLauncher'</Description>
+          <Count>141</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceTest'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceTest.stockService_HeLiuQiang'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceTest.stockService_HeLiuQiang'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceTest.testGetWarehouseInByPage'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceTest.testGetWarehouseInByPage'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceTest.testScheduleTaskInnerService'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceTest.testScheduleTaskInnerService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceTest.testScheduleTaskService'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceTest.testScheduleTaskService'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServiceTest.testSystemService'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServiceTest.testSystemService'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ServicesTest.testGetUserRankTopInfo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ServicesTest.testGetUserRankTopInfo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SpringCache'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SpringCache'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SystemServiceImpl'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'SystemServiceImpl'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'TemporaryLineBreakpoint'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'TemporaryLineBreakpoint'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Tomcat 7.0.90'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Tomcat 7.0.90'</Description>
+          <Count>104</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unnamed'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unnamed'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Web'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Web'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'WorkerLauncher'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'WorkerLauncher'</Description>
+          <Count>88</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.olie.demo [org.apache.tomcat.maven:tomcat7-maven-plugin:2.1:deploy]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.olie.demo [org.apache.tomcat.maven:tomcat7-maven-plugin:2.1:deploy]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'com.olie.demo [org.apache.tomcat.maven:tomcat7-maven-plugin:2.1:run]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'com.olie.demo [org.apache.tomcat.maven:tomcat7-maven-plugin:2.1:run]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'erp-open-api [site]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'erp-open-api [site]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'http://localhost:8080/pushMessage/detail'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'http://localhost:8080/pushMessage/detail'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'inout'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'inout'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'monitor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'monitor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'o2o-inviter [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'o2o-inviter [package]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'o2o-newton-inout [deploy]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'o2o-newton-inout [deploy]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'o2o-newton-inout [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'o2o-newton-inout [package]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'o2o-newton-inout-api [deploy]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'o2o-newton-inout-api [deploy]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'o2o-wms [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'o2o-wms [package]'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'olie-happiness [validate]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'olie-happiness [validate]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'post#1'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'post#1'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'post#8'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'post#8'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'post#9'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'post#9'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'product'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'product'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'wms'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'wms'</Description>
+          <Count>69</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-m-gateway [clean]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-m-gateway [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-m-gateway [validate]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-m-gateway [validate]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-open [clean]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-open [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-open [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-open [package]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-open-api [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-open-api [package]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order [clean]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order [compile]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order [compile]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order [deploy]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order [deploy]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order [package]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order [package]'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order [test]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order [validate]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order [validate]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order-api [compile]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order-api [compile]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'yzt-order-api [org.projectlombok:lombok-maven-plugin:1.18.6.0:delombok]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'yzt-order-api [org.projectlombok:lombok-maven-plugin:1.18.6.0:delombok]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '仓鼠'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop '仓鼠'</Description>
+          <Count>15</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>88</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Switch Task...">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'Alt+Shift+T'</ShortCut>
+          <Description>Switch Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>Synchronize</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
+          <Count>126</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>109</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>171</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Highlight of All Occurrences">
+        <Item>
+          <IdeaActionID>QuickToggleEditorHighlight</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F3'</ShortCut>
+          <Description>Toggle Highlight of All Occurrences</Description>
+          <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1578</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Temporary Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleTemporaryLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F8'</ShortCut>
+          <Description>Toggle Temporary Line Breakpoint</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unmark Object">
+        <Item>
+          <IdeaActionID>Debugger.MarkObject</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Unmark Object</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unshelve...">
+        <Item>
+          <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+U'</ShortCut>
+          <Description>Unshelve...</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'Demo' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'Demo' application</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'H' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'H' application</Description>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'Tomcat 7.0.90' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'Tomcat 7.0.90' application</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update 'wms' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update 'wms' application</Description>
+          <Count>384</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update '仓鼠' application">
+        <Item>
+          <IdeaActionID>UpdateRunningApplication</IdeaActionID>
+          <ShortCut>'Ctrl+F10'</ShortCut>
+          <Description>Update '仓鼠' application</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Ctrl+T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Upload to...">
+        <Item>
+          <IdeaActionID>PublishGroup.UploadTo</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+X'</ShortCut>
+          <Description>Upload to...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Alt+`'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Variable...">
+        <Item>
+          <IdeaActionID>IntroduceVariable</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+V'</ShortCut>
+          <Description>Variable...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>3337</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom In">
+        <Item>
+          <IdeaActionID>UML.ZoomIn</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+='</ShortCut>
+          <Description>Zoom In</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>UML.ZoomOut</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+减号'</ShortCut>
+          <Description>Zoom Out</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="编码规约扫描">
+        <Item>
+          <IdeaActionID>com.jd.p3c.idea.action.JdInspectionAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+J'</ShortCut>
+          <Description>编码规约扫描</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>173</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'O2OWmsServiceLauncher'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'O2OWmsServiceLauncher'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

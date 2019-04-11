@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="javap显示字节码文件" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\ProgramFiles\IDE\Jdk\jdk7u80\bin\javap.exe" />
+      <option name="PARAMETERS" value="-c $FileNameWithoutExtension$" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+  <tool name="Git" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\Program Files\job\git-2.18\bin\bash.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/Program Files/job/git-2.18/bin" />
+    </exec>
+  </tool>
+  <tool name="screentogif" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="E:\Program Files\job\screentogif\ScreenToGif.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="E:/Program Files/job/screentogif" />
+    </exec>
+  </tool>
+  <tool name="Chrome" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files (x86)/Google/Chrome/Application" />
+    </exec>
+  </tool>
+</toolSet>

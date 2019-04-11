@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Boolean/DeMorgan Law" />
+    <ignoreAction name="Java/Annotations/Add Annotation" />
+  </component>
+</application>

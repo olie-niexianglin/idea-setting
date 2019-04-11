@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="DB2" injector-id="java">
+      <display-name>String.String (java.lang)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("String").withParameters("java.lang.String").definedInClass("java.lang.String"))]]></place>
+    </injection>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="seri" value="private static final long serialVersionUID = -6123494199269058433L;" description="序列化 ID" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="prof" value="com.jd.ump.profiler.proxy.Profiler.businessAlarm(&quot;&quot;, &quot;&quot;);" description="监控" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

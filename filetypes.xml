@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="oo" type="PLAIN_TEXT" />
+      <mapping pattern="RPC 层代码编码写规范" type="PLAIN_TEXT" />
+      <mapping pattern="desc" type="PLAIN_TEXT" />
+      <mapping pattern="redis_init_script" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="2" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

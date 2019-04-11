@@ -1,0 +1,5 @@
+<templateSet group="output">
+  <template name="souf" value="System.out.printf(&quot;$END$&quot;);" description="Prints a formatted string to System.out" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

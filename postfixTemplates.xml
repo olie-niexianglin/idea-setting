@@ -1,0 +1,13 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.intellij.lang.javascript.template.postfix.JSIfStatementPostfixTemplate#.if" key=".if" provider="builtin.js" builtin="com.intellij.lang.javascript.template.postfix.JSIfStatementPostfixTemplate#.if" />
+    <template id="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSoutPostfixTemplate#.sout" key=".sout" provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider" builtin="org.jetbrains.kotlin.idea.codeInsight.postfix.KtSoutPostfixTemplate#.sout" />
+    <template id="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.nn" key=".nn" provider="org.jetbrains.kotlin.idea.codeInsight.postfix.KtPostfixTemplateProvider" builtin="org.jetbrains.kotlin.idea.codeInsight.postfix.KtNotNullPostfixTemplate#.nn" />
+    <template id="empty@userDefined2" key=".empty" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions>
+        <condition id="non void" />
+      </conditions>
+      <template name="fakeKey" value="StringUtils.isBlank($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>

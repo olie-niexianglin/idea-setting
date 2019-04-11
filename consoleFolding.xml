@@ -1,0 +1,10 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="[DEBUG 2018-10-19 17:07:38.674] [main] [org.apache.ibatis.logging.slf4j.Slf4jImpl.debug(Slf4jImpl.java:28)] [] Parsed mapper file: 'file [E:\worker-new\o2o-newton-inout\o2o-newton-inout-dao\target\classes\sqlmap\mybatis\mysql\WarehouseOutCheckProductMapper.xml]'" />
+        <option value="log4j:WARN No appenders could be found for logger (com.jd.o2o.commons.utils.spring.SpringContextHolder)." />
+      </list>
+    </option>
+  </component>
+</application>
