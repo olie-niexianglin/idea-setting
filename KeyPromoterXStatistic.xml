@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>836</Count>
+          <Count>837</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -894,7 +894,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>485</Count>
+          <Count>486</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2286,7 +2286,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1040</Count>
+          <Count>1043</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3126,7 +3126,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3362</Count>
+          <Count>3366</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
