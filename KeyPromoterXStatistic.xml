@@ -569,6 +569,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F12'</ShortCut>
+          <Description>File Path</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Action...">
         <Item>
           <IdeaActionID>GotoAction</IdeaActionID>
@@ -646,7 +654,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>244</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -862,7 +870,7 @@
           <IdeaActionID>FindBugs.PreviewSelectBugInstance</IdeaActionID>
           <ShortCut>'Alt+Q' or 'Alt+Button1 Click'</ShortCut>
           <Description>Preview the current selected bug.</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -870,7 +878,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>317</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -911,6 +919,22 @@
           <ShortCut>'Ctrl+Q' or 'Alt+Button2 Click'</ShortCut>
           <Description>Quick Documentation</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Run Maven Goal">
+        <Item>
+          <IdeaActionID>MavenHelper.QuickRunMavenGoal</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+R'</ShortCut>
+          <Description>Quick Run Maven Goal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Run Root Maven Goal">
+        <Item>
+          <IdeaActionID>MavenHelper.QuickRunRootMavenGoal</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+R'</ShortCut>
+          <Description>Quick Run Root Maven Goal</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -1457,6 +1481,14 @@
           <Count>95</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Related Symbol...">
+        <Item>
+          <IdeaActionID>GotoRelated</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Home'</ShortCut>
+          <Description>Related Symbol...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Reload PlantUml Diagrams">
         <Item>
           <IdeaActionID>PlantUML.Reload</IdeaActionID>
@@ -1774,7 +1806,7 @@
           <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
           <ShortCut>'Shift+F12'</ShortCut>
           <Description>Restore Default Layout</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -3118,7 +3150,7 @@
           <IdeaActionID>IntroduceVariable</IdeaActionID>
           <ShortCut>'Ctrl+Alt+V'</ShortCut>
           <Description>Variable...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
