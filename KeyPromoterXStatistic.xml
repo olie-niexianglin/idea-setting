@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>838</Count>
+          <Count>839</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12758</Count>
+          <Count>12766</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -3126,7 +3126,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3367</Count>
+          <Count>3368</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
