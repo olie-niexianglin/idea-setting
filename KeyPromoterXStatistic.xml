@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12753</Count>
+          <Count>12758</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -2286,7 +2286,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1043</Count>
+          <Count>1044</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
