@@ -110,7 +110,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Active Task...">
@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12795</Count>
+          <Count>12803</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -654,7 +654,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>245</Count>
+          <Count>250</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -742,7 +742,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>613</Count>
+          <Count>614</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -878,7 +878,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>319</Count>
+          <Count>322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -3126,7 +3126,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
