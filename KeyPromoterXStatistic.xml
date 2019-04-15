@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>847</Count>
+          <Count>848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -534,7 +534,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>203</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>620</Count>
+          <Count>621</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3571</Count>
+          <Count>3574</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1846,7 +1846,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>592</Count>
+          <Count>593</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Constant.main()'">
@@ -2326,7 +2326,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1045</Count>
+          <Count>1046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -2591,6 +2591,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'ResponsebilityChainTest'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ScheduleTaskManagerServiceTest.testCriteria'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ScheduleTaskManagerServiceTest.testCriteria'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Scratch (1)'">
@@ -3014,7 +3022,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>128</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3166,7 +3174,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3379</Count>
+          <Count>3381</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
