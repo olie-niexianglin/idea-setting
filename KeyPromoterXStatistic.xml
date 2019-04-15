@@ -446,7 +446,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12838</Count>
+          <Count>12843</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -742,7 +742,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>614</Count>
+          <Count>615</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -3158,7 +3158,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3373</Count>
+          <Count>3375</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
