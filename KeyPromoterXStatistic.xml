@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>622</Count>
+          <Count>623</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -910,7 +910,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>490</Count>
+          <Count>494</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2326,7 +2326,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1048</Count>
+          <Count>1049</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3174,7 +3174,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3387</Count>
+          <Count>3389</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
