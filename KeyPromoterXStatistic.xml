@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>852</Count>
+          <Count>853</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -454,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12870</Count>
+          <Count>12871</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -886,7 +886,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>322</Count>
+          <Count>323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -910,7 +910,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>498</Count>
+          <Count>500</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3190,7 +3190,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3399</Count>
+          <Count>3401</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
