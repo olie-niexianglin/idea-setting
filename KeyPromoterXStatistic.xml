@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>844</Count>
+          <Count>847</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -313,6 +313,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'ScheduleTaskManagerServiceTest.testCriteria'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'ScheduleTaskManagerServiceTest.testCriteria'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Scratch'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -326,7 +334,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'ServiceLauncher'</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'ServiceTest.testScheduleTaskInnerService'">
@@ -446,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12843</Count>
+          <Count>12849</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -502,7 +510,7 @@
           <IdeaActionID>Vcs.EditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit Source</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
@@ -742,7 +750,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>615</Count>
+          <Count>620</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -1822,7 +1830,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>3569</Count>
+          <Count>3571</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1838,7 +1846,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>589</Count>
+          <Count>592</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Constant.main()'">
@@ -3014,7 +3022,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -3046,7 +3054,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1581</Count>
+          <Count>1582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Temporary Line Breakpoint">
@@ -3158,7 +3166,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3375</Count>
+          <Count>3379</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
