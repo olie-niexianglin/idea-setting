@@ -110,7 +110,7 @@
           <IdeaActionID>CloseContent</IdeaActionID>
           <ShortCut>'Ctrl+F4'</ShortCut>
           <Description>Close</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Close Active Task...">
@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>848</Count>
+          <Count>849</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -454,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12862</Count>
+          <Count>12868</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -910,7 +910,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>489</Count>
+          <Count>490</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3174,7 +3174,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3385</Count>
+          <Count>3387</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
