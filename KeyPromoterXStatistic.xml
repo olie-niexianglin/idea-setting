@@ -94,7 +94,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Clear Context">
@@ -662,7 +662,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>250</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hierarchy">
@@ -750,7 +750,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>627</Count>
+          <Count>628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -1457,6 +1457,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'TestAction.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'TestAction.java'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'ValidateUtils.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -2006,7 +2014,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Plugin'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Question.main()'">
