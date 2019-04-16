@@ -878,7 +878,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>288</Count>
+          <Count>289</Count>
         </Item>
       </Statistic>
       <Statistic Action="Preview the current selected bug.">
@@ -894,7 +894,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>323</Count>
+          <Count>325</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -3070,7 +3070,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>143</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
