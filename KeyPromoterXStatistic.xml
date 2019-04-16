@@ -454,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12892</Count>
+          <Count>12893</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -1369,6 +1369,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'Java2JsonAction.java'">
+        <Item>
+          <IdeaActionID>Compile</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F9'</ShortCut>
+          <Description>Recompile 'Java2JsonAction.java'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Recompile 'LocalHistory.java'">
         <Item>
           <IdeaActionID>Compile</IdeaActionID>
@@ -1854,7 +1862,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>594</Count>
+          <Count>596</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Constant.main()'">
