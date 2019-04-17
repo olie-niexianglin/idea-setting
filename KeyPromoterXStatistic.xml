@@ -2366,7 +2366,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1067</Count>
+          <Count>1068</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3222,7 +3222,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3421</Count>
+          <Count>3422</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
