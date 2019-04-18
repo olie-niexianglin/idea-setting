@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12949</Count>
+          <Count>12950</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -918,7 +918,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>502</Count>
+          <Count>503</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2366,7 +2366,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1068</Count>
+          <Count>1071</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3222,7 +3222,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3426</Count>
+          <Count>3429</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
