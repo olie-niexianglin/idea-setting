@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>863</Count>
+          <Count>864</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>12969</Count>
+          <Count>12979</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -2366,7 +2366,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1072</Count>
+          <Count>1077</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3222,7 +3222,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3431</Count>
+          <Count>3437</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
