@@ -758,7 +758,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>638</Count>
+          <Count>639</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -3230,7 +3230,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3476</Count>
+          <Count>3477</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
