@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>873</Count>
+          <Count>874</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>13018</Count>
+          <Count>13037</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -918,7 +918,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>508</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1086</Count>
+          <Count>1088</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3078,7 +3078,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3230,7 +3230,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3466</Count>
+          <Count>3468</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
