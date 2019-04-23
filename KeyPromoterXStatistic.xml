@@ -134,7 +134,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>878</Count>
+          <Count>880</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare With...">
@@ -462,7 +462,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>13055</Count>
+          <Count>13076</Count>
         </Item>
       </Statistic>
       <Statistic Action="Default task">
@@ -758,7 +758,7 @@
           <IdeaActionID>ActivateMavenToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F11'</ShortCut>
           <Description>Maven</Description>
-          <Count>639</Count>
+          <Count>640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Maximize Tool Window">
@@ -918,7 +918,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>513</Count>
+          <Count>514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2374,7 +2374,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1093</Count>
+          <Count>1094</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff as UML">
@@ -3230,7 +3230,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>3496</Count>
+          <Count>3503</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
