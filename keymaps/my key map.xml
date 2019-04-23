@@ -22,7 +22,4 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt m" />
   </action>
-  <action id="Macro.hello world">
-    <keyboard-shortcut first-keystroke="ctrl windows" />
-  </action>
 </keymap>
