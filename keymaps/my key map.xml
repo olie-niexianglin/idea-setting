@@ -1,0 +1,28 @@
+<keymap version="1" name="my key map" parent="$default">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="ActivateEmbeddedWebBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+  </action>
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Macro.hello world">
+    <keyboard-shortcut first-keystroke="alt windows" />
+  </action>
+</keymap>
