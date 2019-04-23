@@ -2318,7 +2318,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Settings...</Description>
-          <Count>389</Count>
+          <Count>390</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -3198,7 +3198,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Upload to...">
