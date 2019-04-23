@@ -902,7 +902,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>93</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -2318,7 +2318,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+0'</ShortCut>
           <Description>Settings...</Description>
-          <Count>380</Count>
+          <Count>385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
